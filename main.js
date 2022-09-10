@@ -1,4 +1,4 @@
-const CARDS = 5;
+const CARDS = 10;
 
 // Peticion de pokemones al API
 for(let i=1; i<= CARDS; i++){
